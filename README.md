@@ -38,6 +38,6 @@ Unity 2018.3.1f1
 
 1. Use git branch.
 2. Branch name should be github account or name.
-3. Pull request for each week
+3. Pull request
    - ref) https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 4. (empty)
