@@ -41,3 +41,7 @@ Unity 2018.3.1f1
 3. Pull request
    - ref) https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
 4. (empty)
+
+
+We finished this project lecture.
+Please, do not use volume data in pakages.
