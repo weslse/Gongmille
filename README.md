@@ -16,14 +16,14 @@ Department of Computer Science, Hansung University.
 
 ### Member
 
-- Lee SangEun (weslse) 
+- Lee Sang Eun (weslse) 
   - Team Leader
   - Implement Volume Rendering
-- Kim Chung (kkseoul)
+- Kim Cheong (kkseoul)
   - Assist Shader Coding
-- Cho YeWon (nov4com)
+- Cho Ye Won (nov4com)
   - Create UI with Unity
-- Choi NakSoo (Naksooroo)
+- Choi Nak Soo (Naksooroo)
   - Create UI with Unity
 
 
